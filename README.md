@@ -1,2 +1,3 @@
 # Healthcare-management-system-using-MYSQL
-Store a datas in the MYSQL database and Query to retrieve the data for the specific  detail 
+Healthcare management of Patients,hospital,Insurence details store in mysql then Query to Retrive the details using SQL query
+
