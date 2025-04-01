@@ -1,0 +1,49 @@
+Name,Gender,Age,Doctor,MedicalCondition,InsuranceProvider,BillingAmount
+"adrIENNE bEll",Female,43,"Kathleen Hanna",Cancer,Aetna,14238.32
+"bROOkE brady",Female,44,"Roberta Stewart",Cancer,UnitedHealthcare,40701.60
+"Erin oRTEga",Male,43,"Heather Garcia",Cancer,Medicare,21185.95
+"STepHaNie kEnt",Female,42,"Mary Moss",Cancer,Aetna,14681.02
+"kyle Wiley",Female,40,"Stephen Carr",Cancer,Aetna,6733.99
+"wILLIAM hIlL",Female,38,"Matthew Walker",Cancer,Cigna,39476.95
+"TInA GriFfin",Male,49,"Jessica Cruz",Cancer,Medicare,25302.11
+"ashLEy ERIcKSoN",Female,32,"Gerald Hooper",Cancer,Aetna,-502.51
+"MELIndA richARds",Female,37,"Katherine Brown",Cancer,Aetna,31308.21
+"kEvIN jEFFeRsON",Female,45,"Holly James",Cancer,Cigna,12356.56
+"SYdNey Cross",Female,34,"Robin Adams",Cancer,UnitedHealthcare,18524.87
+"KaREn pricE dDs",Male,43,"Michael Robinson",Cancer,Aetna,27278.24
+"CLaYTON PEterSon",Female,45,"Jack Wall",Cancer,Aetna,43567.14
+"mIcHelLe FLYnn",Male,31,"Jeffery Morgan",Cancer,Medicare,28456.70
+"joRDAn vARgaS",Male,48,"Angela Logan MD",Cancer,UnitedHealthcare,5945.01
+"amY CoMbS",Male,35,"Christopher Rivera",Cancer,"Blue Cross",48826.39
+"MelIssA hOFfMAN",Male,36,"Andrew Hill",Cancer,UnitedHealthcare,36204.73
+"Joseph MARtiN",Male,33,"Susan Sampson",Cancer,Cigna,41311.29
+"AshleY WiLliamS",Female,31,"Casey Fowler",Cancer,"Blue Cross",18382.66
+"aNdrea kenNedy",Female,40,"Anthony Graves",Cancer,UnitedHealthcare,3903.76
+"vAlEriE hodgES",Male,35,"Barbara Burgess",Cancer,UnitedHealthcare,16097.76
+"aLEx RodriGUEz",Male,39,"Clinton Sanchez",Cancer,Medicare,50332.93
+"suSAn WALTerS",Male,43,"Charles Cardenas",Cancer,UnitedHealthcare,33443.55
+"jACquEliNE DeAN",Female,41,"Paul Ruiz",Cancer,Aetna,18932.31
+"sHaNe TaTe",Male,31,"Willie Lowery",Cancer,Aetna,19563.20
+"mAria GArdNEr",Female,35,"Scott Herring",Cancer,Aetna,22030.69
+"paTRicK pierce",Female,41,"Brent Dickerson",Cancer,"Blue Cross",17855.80
+"cARLA walkER",Male,49,"Nathaniel Jacobson",Cancer,Aetna,41222.01
+"raChel DaVIS",Male,36,"Allison Harper",Cancer,Medicare,46682.45
+"SAndRa mccALl",Male,41,"Heather Howard",Cancer,UnitedHealthcare,10965.70
+"tREVor WRiGHt",Female,39,"Benjamin Tyler",Cancer,Aetna,46890.43
+"AlexaNder COLEMan",Male,44,"Sherri Campbell",Cancer,Medicare,1656.55
+"DeBORAH EVaNs",Female,45,"Mark Martin",Cancer,UnitedHealthcare,5268.69
+"MArK GiLES",Male,44,"Robert Gregory",Cancer,UnitedHealthcare,49446.46
+"eRic ParK",Female,47,"Peggy Nunez",Cancer,Cigna,31444.09
+"jOsepH SelLeRs",Female,39,"George Smith",Cancer,"Blue Cross",13034.08
+"kEith ROdRiGuez",Female,34,"David Gonzalez",Cancer,Medicare,10659.61
+"tAmARA davENpOrT",Male,31,"Michael Villanueva",Cancer,Cigna,10919.11
+"sHaRON joHnsON",Male,41,"Amber Carpenter",Cancer,Medicare,19249.69
+"kARa lI",Male,38,"Randy Graham",Cancer,Medicare,13666.18
+"JASmine sHort",Female,40,"Richard Jones",Cancer,Cigna,35821.65
+"cyNthIA thOmAs",Female,44,"Steve Anderson",Cancer,"Blue Cross",17202.90
+"aNgEla rANdOLph",Female,36,"Karen Lynn",Cancer,"Blue Cross",46421.26
+"chrIsTOpHEr tAtE",Female,43,"Rachel Lopez",Cancer,"Blue Cross",10767.38
+"dAvId BrOwn",Male,32,"Melanie Lloyd",Cancer,UnitedHealthcare,44148.54
+"shEiLA cHurcH",Male,46,"Ryan Garcia",Cancer,"Blue Cross",8762.50
+"maRcUS bRoWn",Female,41,"Joshua Ross",Cancer,UnitedHealthcare,46602.69
+"JOSePh faRlEy",Male,46,"Julie Warren",Cancer,UnitedHealthcare,8709.04
