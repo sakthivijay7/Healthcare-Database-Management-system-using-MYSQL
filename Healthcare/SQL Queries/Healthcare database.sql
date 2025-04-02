@@ -7,18 +7,18 @@ create table Patients(
  Age int,
  Gender varchar(6),
  BloodType varchar(3),
- MedicalCondition varchar(15));
+ MedicalCondition varchar(30));
  select * from healthcare.Patients;
  
   -- Table creation Admissions:
 use Healthcare;
 create table Admissions(
- Patient_Id int auto_increment primary key not null,
+ Patient_Id int  primary key not null,
  DateofAdmission varchar(10) ,
  Doctor varchar(20) ,
  Hospital varchar(30),
  RoomNumber int,
- AdmissionType varchar(10),
+ AdmissionType varchar(20),
  Discharge_Date varchar(10),
  foreign key(Patient_Id) references Patients (Patient_Id));
  alter table Admissions modify column DateofAdmission date;
@@ -28,7 +28,7 @@ create table Admissions(
  use Healthcare;
  create table Billing(
   Patient_Id int auto_increment primary key,
-  InsuranceProvider varchar(20),
+  InsuranceProvider varchar(30),
   BillingAmount decimal(10,2),
   foreign key (Patient_Id) references Patients (Patient_Id));
 select * from Billing; 
@@ -37,8 +37,8 @@ select * from Billing;
 use Healthcare;
 create table MedicalRecords(
 Patient_Id int auto_increment primary key not null,
-Medication varchar(15),
-TestResults varchar(15),
+Medication varchar(20),
+TestResults varchar(20),
 foreign key (Patient_Id) references Patients (Patient_Id));
    
 
