@@ -1,6 +1,31 @@
 # Healthcare-management-system-using-MYSQL
-Create a database name it and then use the databasese to create a needed tables and it's columns.
-Healthcare hospital  Patients,hospital,Insurence details store in mysql .
-SQL Queries in mysql workbench to Retrive the details.
-End  data to export csv file
+Database creation:
+Create a database named it Healthcare 
+
+Table creation:
+1.Patients details
+Patient_Id,Name,Age,Gender,BloodType,MedicalCondition 
+2.Admissions
+DateofAdmission,Doctor,Hospital ,RoomNumber,AdmissionType ,Discharge_Date
+3.Billing
+Insurance provider,BillingAmount
+4.Medical report
+Medication,Test result
+
+Query:
+SQL Queries in mysql workbench to Retrive patients details.
+SQL procedure function for automatic retrieve patients details
+
+Web-UI:
+Streamlit web-ui for enter name of the patient then retrieve entire particular patient report details.
+
+Export:
+Download data to export csv file.
+
+Techniques:
+Python,
+Jupyter notebook,
+MySQL,
+streamlit.
+
 
