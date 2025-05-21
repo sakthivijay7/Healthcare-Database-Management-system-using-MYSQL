@@ -23,7 +23,7 @@ SQL procedure function for automatic retrieve patients details
 
 Web-UI:
 
-Streamlit web-ui for enter name of the patient then retrieve particular patient report details.
+Streamlit web-ui to enter name of the patient then retrieve particular patient report.
 ![ui](https://github.com/user-attachments/assets/1bebc46d-57ff-466a-afcc-f055f0e9d73d)
 
 
